@@ -15,9 +15,7 @@ body {
 img {
 border: 12px solid cadetblue;
 display: block;
-width: 400px;
-max-width: 400px;
-min-width: 90px;
+width: 350px;
 height: auto;
 margin: auto;
 }
