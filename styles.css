@@ -15,11 +15,16 @@ body {
 img {
 border: 12px solid cadetblue;
 display: block;
-width: 90px;
-max-width: 400px;
+max-width: 100%;
 box-sizing: border-box;
 height: auto;
 margin: auto;
+}
+
+html, body {
+    margin: auto;
+    padding: auto;
+    overflow-x: hidden;
 }
 
 figcaption {
