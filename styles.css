@@ -16,7 +16,6 @@ img {
 border: 12px solid cadetblue;
 display: block;
 width: 400px;
-box-sizing: border-box;
 height: auto;
 margin: auto;
 }
